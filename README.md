@@ -6,13 +6,13 @@ This project demonstrates how to connect Python to a MySQL database, create data
 
 ## Directory Structure
 
-mysql-database-automation/
-├── connect_mysql.py # Connects to MySQL server
-├── create_db_tables.py # Creates databases and tables
-├── execute_queries.py # Executes queries
-├── README.md # Project documentation
-├── requirements.txt # Project dependencies
-└── LICENSE # License information
+- mysql-database-automation/
+- ├── connect_mysql.py # Connects to MySQL server
+- ├── create_db_tables.py # Creates databases and tables
+- ├── execute_queries.py # Executes queries
+- ├── README.md # Project documentation
+- ├── requirements.txt # Project dependencies
+- └── LICENSE # License information
 
 
 ---
